@@ -20,7 +20,7 @@ main{
   padding: 20px;
   border: 1px solid hsl(0, 0%, 7%);
   border-radius: 20px;
-  box-shadow: 15px 15px 0 rgba(0, 0, 0, 1);
+  box-shadow: 8px 8px 0 rgba(0, 0, 0, 1);
 }
 .post-image{
   border-radius: 10px;
@@ -39,9 +39,6 @@ main{
   font-size: clamp(12px, 2.75vw, 14px);
   font-weight: 500;
 }
-h1{
-  margin: 0;
-}
 .title{
   color: hsl(0, 0%, 7%);
   font-weight: 800;
@@ -56,6 +53,7 @@ h1{
   line-height: 22px;
   color: hsl(0, 0%, 50%);
   font-weight: 500;
+  margin-bottom: 22px;
 }
 
 .profile{
