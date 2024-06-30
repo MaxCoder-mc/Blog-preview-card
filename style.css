@@ -51,7 +51,7 @@ h1{
   font-size: clamp(1.25rem, 2.75vw, 1.5rem);
   
 }
-.title:hover{
+h1:hover{
   color: hsl(47, 88%, 63%);
 }
 .details{
